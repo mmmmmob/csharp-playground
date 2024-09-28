@@ -1,0 +1,14 @@
+/Users/theppitak/Coding/csharp-playground/Codecademy/MoneyMaker/bin/Debug/net8.0/MoneyMaker
+/Users/theppitak/Coding/csharp-playground/Codecademy/MoneyMaker/bin/Debug/net8.0/MoneyMaker.deps.json
+/Users/theppitak/Coding/csharp-playground/Codecademy/MoneyMaker/bin/Debug/net8.0/MoneyMaker.runtimeconfig.json
+/Users/theppitak/Coding/csharp-playground/Codecademy/MoneyMaker/bin/Debug/net8.0/MoneyMaker.dll
+/Users/theppitak/Coding/csharp-playground/Codecademy/MoneyMaker/bin/Debug/net8.0/MoneyMaker.pdb
+/Users/theppitak/Coding/csharp-playground/Codecademy/MoneyMaker/obj/Debug/net8.0/MoneyMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/theppitak/Coding/csharp-playground/Codecademy/MoneyMaker/obj/Debug/net8.0/MoneyMaker.AssemblyInfoInputs.cache
+/Users/theppitak/Coding/csharp-playground/Codecademy/MoneyMaker/obj/Debug/net8.0/MoneyMaker.AssemblyInfo.cs
+/Users/theppitak/Coding/csharp-playground/Codecademy/MoneyMaker/obj/Debug/net8.0/MoneyMaker.csproj.CoreCompileInputs.cache
+/Users/theppitak/Coding/csharp-playground/Codecademy/MoneyMaker/obj/Debug/net8.0/MoneyMaker.dll
+/Users/theppitak/Coding/csharp-playground/Codecademy/MoneyMaker/obj/Debug/net8.0/refint/MoneyMaker.dll
+/Users/theppitak/Coding/csharp-playground/Codecademy/MoneyMaker/obj/Debug/net8.0/MoneyMaker.pdb
+/Users/theppitak/Coding/csharp-playground/Codecademy/MoneyMaker/obj/Debug/net8.0/MoneyMaker.genruntimeconfig.cache
+/Users/theppitak/Coding/csharp-playground/Codecademy/MoneyMaker/obj/Debug/net8.0/ref/MoneyMaker.dll
