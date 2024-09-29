@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MadLibs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79076c550726709a857f676d15f3a92534e9ade5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13944ddd85ecba9842512b6b25ae10ce34f92a4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MadLibs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MadLibs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -22,33 +22,33 @@ namespace MadLibs
       Console.WriteLine(title);
       // Define user input and variables:
       Console.Write("Enter a name: ");
-      string name = Console.ReadLine();
+      string name = Console.ReadLine()!;
       Console.Write("Enter first adjective: ");
-      string adj1 = Console.ReadLine();
+      string adj1 = Console.ReadLine()!;
       Console.Write("Enter second adjective: ");
-      string adj2 = Console.ReadLine();
+      string adj2 = Console.ReadLine()!;
       Console.Write("Enter third adjective: ");
-      string adj3 = Console.ReadLine();
+      string adj3 = Console.ReadLine()!;
       Console.Write("Enter a verb: ");
-      string verb = Console.ReadLine();
+      string verb = Console.ReadLine()!;
       Console.Write("Enter first noun: ");
-      string noun1 = Console.ReadLine();
+      string noun1 = Console.ReadLine()!;
       Console.Write("Enter second noun: ");
-      string noun2 = Console.ReadLine();
+      string noun2 = Console.ReadLine()!;
       Console.Write("Enter an animal: ");
-      string animal = Console.ReadLine();
+      string animal = Console.ReadLine()!;
       Console.Write("Enter a food: ");
-      string food = Console.ReadLine();
+      string food = Console.ReadLine()!;
       Console.Write("Enter a fruit: ");
-      string fruit = Console.ReadLine();
+      string fruit = Console.ReadLine()!;
       Console.Write("Enter a superhero: ");
-      string hero = Console.ReadLine();
+      string hero = Console.ReadLine()!;
       Console.Write("Enter a country: ");
-      string country = Console.ReadLine();
+      string country = Console.ReadLine()!;
       Console.Write("Enter a dessert: ");
-      string dessert = Console.ReadLine();
+      string dessert = Console.ReadLine()!;
       Console.Write("Enter a year: ");
-      string year = Console.ReadLine();
+      string year = Console.ReadLine()!;
 
       // The template for the story:
 
