@@ -1,0 +1,15 @@
+/Users/theppitak/Coding/csharp-playground/Codecademy/MadLibs/bin/Debug/net8.0/MadLibs
+/Users/theppitak/Coding/csharp-playground/Codecademy/MadLibs/bin/Debug/net8.0/MadLibs.deps.json
+/Users/theppitak/Coding/csharp-playground/Codecademy/MadLibs/bin/Debug/net8.0/MadLibs.runtimeconfig.json
+/Users/theppitak/Coding/csharp-playground/Codecademy/MadLibs/bin/Debug/net8.0/MadLibs.dll
+/Users/theppitak/Coding/csharp-playground/Codecademy/MadLibs/bin/Debug/net8.0/MadLibs.pdb
+/Users/theppitak/Coding/csharp-playground/Codecademy/MadLibs/obj/Debug/net8.0/MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/theppitak/Coding/csharp-playground/Codecademy/MadLibs/obj/Debug/net8.0/MadLibs.AssemblyInfoInputs.cache
+/Users/theppitak/Coding/csharp-playground/Codecademy/MadLibs/obj/Debug/net8.0/MadLibs.AssemblyInfo.cs
+/Users/theppitak/Coding/csharp-playground/Codecademy/MadLibs/obj/Debug/net8.0/MadLibs.csproj.CoreCompileInputs.cache
+/Users/theppitak/Coding/csharp-playground/Codecademy/MadLibs/obj/Debug/net8.0/MadLibs.sourcelink.json
+/Users/theppitak/Coding/csharp-playground/Codecademy/MadLibs/obj/Debug/net8.0/MadLibs.dll
+/Users/theppitak/Coding/csharp-playground/Codecademy/MadLibs/obj/Debug/net8.0/refint/MadLibs.dll
+/Users/theppitak/Coding/csharp-playground/Codecademy/MadLibs/obj/Debug/net8.0/MadLibs.pdb
+/Users/theppitak/Coding/csharp-playground/Codecademy/MadLibs/obj/Debug/net8.0/MadLibs.genruntimeconfig.cache
+/Users/theppitak/Coding/csharp-playground/Codecademy/MadLibs/obj/Debug/net8.0/ref/MadLibs.dll
