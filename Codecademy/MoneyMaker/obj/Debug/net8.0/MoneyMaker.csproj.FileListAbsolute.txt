@@ -12,3 +12,4 @@
 /Users/theppitak/Coding/csharp-playground/Codecademy/MoneyMaker/obj/Debug/net8.0/MoneyMaker.pdb
 /Users/theppitak/Coding/csharp-playground/Codecademy/MoneyMaker/obj/Debug/net8.0/MoneyMaker.genruntimeconfig.cache
 /Users/theppitak/Coding/csharp-playground/Codecademy/MoneyMaker/obj/Debug/net8.0/ref/MoneyMaker.dll
+/Users/theppitak/Coding/csharp-playground/Codecademy/MoneyMaker/obj/Debug/net8.0/MoneyMaker.sourcelink.json
