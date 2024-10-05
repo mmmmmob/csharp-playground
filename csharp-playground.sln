@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrueOrFalse", "Codecademy\T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeInventory", "Codecademy\OfficeInventory\OfficeInventory.csproj", "{91BD6D8F-2166-4BA2-AF7B-C083E5A90A56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchitectArithmatic", "Codecademy\ArchitectArithmatic\ArchitectArithmatic.csproj", "{8057D12B-F5C7-4233-9AFC-E0B2FF929E12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,10 @@ Global
 		{91BD6D8F-2166-4BA2-AF7B-C083E5A90A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91BD6D8F-2166-4BA2-AF7B-C083E5A90A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91BD6D8F-2166-4BA2-AF7B-C083E5A90A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8057D12B-F5C7-4233-9AFC-E0B2FF929E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8057D12B-F5C7-4233-9AFC-E0B2FF929E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8057D12B-F5C7-4233-9AFC-E0B2FF929E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8057D12B-F5C7-4233-9AFC-E0B2FF929E12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -86,6 +92,7 @@ Global
 		{A3C43D99-FEC9-4EDE-ADA4-3A05BDEBC09C} = {E7701A0A-4E71-4D3A-B4BF-509C0FABB7E2}
 		{44C9BD96-AC46-4405-989B-A74AADD6F0A3} = {E7701A0A-4E71-4D3A-B4BF-509C0FABB7E2}
 		{91BD6D8F-2166-4BA2-AF7B-C083E5A90A56} = {E7701A0A-4E71-4D3A-B4BF-509C0FABB7E2}
+		{8057D12B-F5C7-4233-9AFC-E0B2FF929E12} = {E7701A0A-4E71-4D3A-B4BF-509C0FABB7E2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8EECB227-5FD7-4E22-AC2C-372BC213BD29}
