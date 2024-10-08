@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StellarLifeCycle", "Codecad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOYA", "Codecademy\OOYA\OOYA.csproj", "{AA359261-C11A-454E-8FF3-4744C99AA40A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bibliography", "Codecademy\Bibliography\Bibliography.csproj", "{7F020DA3-53F7-4250-831A-44FCA2FEA3B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -89,6 +91,10 @@ Global
 		{AA359261-C11A-454E-8FF3-4744C99AA40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA359261-C11A-454E-8FF3-4744C99AA40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA359261-C11A-454E-8FF3-4744C99AA40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F020DA3-53F7-4250-831A-44FCA2FEA3B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F020DA3-53F7-4250-831A-44FCA2FEA3B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F020DA3-53F7-4250-831A-44FCA2FEA3B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F020DA3-53F7-4250-831A-44FCA2FEA3B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -107,6 +113,7 @@ Global
 		{8057D12B-F5C7-4233-9AFC-E0B2FF929E12} = {E7701A0A-4E71-4D3A-B4BF-509C0FABB7E2}
 		{7985B886-AD60-4315-B161-8B8E368C717A} = {E7701A0A-4E71-4D3A-B4BF-509C0FABB7E2}
 		{AA359261-C11A-454E-8FF3-4744C99AA40A} = {E7701A0A-4E71-4D3A-B4BF-509C0FABB7E2}
+		{7F020DA3-53F7-4250-831A-44FCA2FEA3B3} = {E7701A0A-4E71-4D3A-B4BF-509C0FABB7E2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8EECB227-5FD7-4E22-AC2C-372BC213BD29}
