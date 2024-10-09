@@ -29,7 +29,7 @@ namespace CorporatePolymorphism
       Console.WriteLine(); //Line break
 
       // downcasting allows us to convert a base type reference back to a specific type, enabling access to specific methods.
-      Engineer engineer1 = employee1 as Engineer;
+      Engineer? engineer1 = employee1 as Engineer;
       // if cannot downcast it'll return null
       if (engineer1 != null)
       {
