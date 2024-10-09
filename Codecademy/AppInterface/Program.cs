@@ -9,14 +9,14 @@ namespace SavingInterface
       TodoList tdl = new TodoList();
       tdl.Add("Invite friends");
       tdl.Add("Buy decorations");
-      tdl.Add("Party");
+      tdl.Add("Doing chores");
       tdl.Display();
       tdl.Reset();
-      tdl.Display();
 
-      PasswordManager pm = new PasswordManager("iluvpie", true);
+      PasswordManager pm = new PasswordManager("iluv", false);
       pm.Display();
-      pm.Reset();
+      pm.ChangePassword("dddd", "ffff");
+      pm.ChangePassword("dddddddd", "iluvcookies");
       pm.Display();
     }
   }
