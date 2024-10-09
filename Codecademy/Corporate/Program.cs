@@ -20,7 +20,25 @@ namespace CorporatePolymorphism
       //******* Task3 Test Code *********
       //*********************************
 
-      // Placeholder for list of employees
+      // Employees List
+      // upcasting helps allowing us to use derived methods and base methods (can use both engineer specifically made method and general method on Employee)
+      Employee employee1 = new Engineer();
+      employee1.ClockIn();
+      employee1.Work();
+      employee1.SubmitDailyReport();
+      Console.WriteLine(); //Line break
+
+      Employee employee2 = new Manager();
+      employee2.ClockIn();
+      employee2.Work();
+      employee2.SubmitDailyReport();
+      Console.WriteLine(); //Line break
+
+      Employee employee3 = new Intern();
+      employee3.ClockIn();
+      employee3.Work();
+      employee3.SubmitDailyReport();
+      Console.WriteLine(); //Line break
 
       // Placeholder for adding employees to the list
     }
