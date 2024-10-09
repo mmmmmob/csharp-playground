@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bibliography", "Codecademy\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Corporate", "Codecademy\Corporate\Corporate.csproj", "{617007C7-15B6-490D-AC18-7949C6C62060}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppInterface", "Codecademy\AppInterface\AppInterface.csproj", "{C5F6F569-BE45-4C21-A8E2-6ECC6248A98D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,10 @@ Global
 		{617007C7-15B6-490D-AC18-7949C6C62060}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{617007C7-15B6-490D-AC18-7949C6C62060}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{617007C7-15B6-490D-AC18-7949C6C62060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F6F569-BE45-4C21-A8E2-6ECC6248A98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F6F569-BE45-4C21-A8E2-6ECC6248A98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F6F569-BE45-4C21-A8E2-6ECC6248A98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F6F569-BE45-4C21-A8E2-6ECC6248A98D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -121,6 +127,7 @@ Global
 		{AA359261-C11A-454E-8FF3-4744C99AA40A} = {E7701A0A-4E71-4D3A-B4BF-509C0FABB7E2}
 		{7F020DA3-53F7-4250-831A-44FCA2FEA3B3} = {E7701A0A-4E71-4D3A-B4BF-509C0FABB7E2}
 		{617007C7-15B6-490D-AC18-7949C6C62060} = {E7701A0A-4E71-4D3A-B4BF-509C0FABB7E2}
+		{C5F6F569-BE45-4C21-A8E2-6ECC6248A98D} = {E7701A0A-4E71-4D3A-B4BF-509C0FABB7E2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8EECB227-5FD7-4E22-AC2C-372BC213BD29}
