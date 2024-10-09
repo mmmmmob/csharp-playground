@@ -2,7 +2,7 @@ using System;
 
 namespace SavingInterface
 {
-  class PasswordManager : IDisplayable
+  class PasswordManager : IDisplayable, IResetable
   {
     private string Password
     { get; set; }
@@ -26,6 +26,12 @@ namespace SavingInterface
       {
         Console.WriteLine(Password);
       }
+    }
+
+    public void Reset()
+    {
+      Password = "";
+      Hidden = false;
     }
   }
 }

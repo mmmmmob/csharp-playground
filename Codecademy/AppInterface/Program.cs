@@ -11,8 +11,12 @@ namespace SavingInterface
       tdl.Add("Buy decorations");
       tdl.Add("Party");
       tdl.Display();
+      tdl.Reset();
+      tdl.Display();
 
       PasswordManager pm = new PasswordManager("iluvpie", true);
+      pm.Display();
+      pm.Reset();
       pm.Display();
     }
   }

@@ -2,7 +2,7 @@ using System;
 
 namespace SavingInterface
 {
-  class TodoList : IDisplayable
+  class TodoList : IDisplayable, IResetable
   {
     public string[] Todos
     { get; private set; }
@@ -27,6 +27,12 @@ namespace SavingInterface
       {
         Console.WriteLine($"- {todo}");
       }
+    }
+
+    public void Reset()
+    {
+      Todos = new string[5];
+      nextOpenIndex = 0;
     }
   }
 }
