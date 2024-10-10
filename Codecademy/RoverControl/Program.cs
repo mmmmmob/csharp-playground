@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
 
 namespace RoverControlCenter
 {
@@ -11,6 +12,25 @@ namespace RoverControlCenter
       MarsRover sojourner = new MarsRover("Sojourner", 1997);
       Satellite sputnik = new Satellite("Sputnik", 1957);
 
+      Rover[] rovers = new Rover[] { lunokhod, apollo, sojourner };
+      DirectAll(rovers);
+
+      Object[] probes = new Object[] { lunokhod, apollo, sojourner, sputnik };
+      foreach (Object probe in probes)
+      {
+        Type type = probe.GetType();
+        Console.WriteLine($"Tracking a {type}");
+      }
+    }
+
+    public static void DirectAll(Rover[] rovers)
+    {
+      foreach (Rover rover in rovers)
+      {
+        Console.WriteLine(rover.GetInfo());
+        Console.WriteLine(rover.Explore());
+        Console.WriteLine(rover.Collect());
+      }
     }
   }
 }
