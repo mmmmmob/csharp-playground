@@ -13,6 +13,7 @@ namespace RoverControlCenter
       Satellite sputnik = new Satellite("Sputnik", 1957);
 
       Rover[] rovers = new Rover[] { lunokhod, apollo, sojourner };
+      // no error here because Rover using IDirectable interface
       DirectAll(rovers);
 
       Object[] probes = new Object[] { lunokhod, apollo, sojourner, sputnik };
@@ -21,15 +22,19 @@ namespace RoverControlCenter
         Type type = probe.GetType();
         Console.WriteLine($"Tracking a {type}");
       }
+
+      IDirectable[] directables = new IDirectable[] { lunokhod, apollo, sojourner, sputnik };
+      DirectAll(directables);
+
     }
 
-    public static void DirectAll(Rover[] rovers)
+    public static void DirectAll(IDirectable[] directables)
     {
-      foreach (Rover rover in rovers)
+      foreach (IDirectable directable in directables)
       {
-        Console.WriteLine(rover.GetInfo());
-        Console.WriteLine(rover.Explore());
-        Console.WriteLine(rover.Collect());
+        Console.WriteLine(directable.GetInfo());
+        Console.WriteLine(directable.Explore());
+        Console.WriteLine(directable.Collect());
       }
     }
   }
