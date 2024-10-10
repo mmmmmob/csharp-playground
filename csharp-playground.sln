@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverControl", "Codecademy\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberLibrary", "Codecademy\CyberLibrary\CyberLibrary.csproj", "{36D5A135-49B7-4A49-AE0A-29157A49A401}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingLang", "Codecademy\ProgrammingLang\ProgrammingLang.csproj", "{264571D9-A9A6-440A-8BA5-6D38C010686E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,10 @@ Global
 		{36D5A135-49B7-4A49-AE0A-29157A49A401}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36D5A135-49B7-4A49-AE0A-29157A49A401}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36D5A135-49B7-4A49-AE0A-29157A49A401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264571D9-A9A6-440A-8BA5-6D38C010686E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264571D9-A9A6-440A-8BA5-6D38C010686E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264571D9-A9A6-440A-8BA5-6D38C010686E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264571D9-A9A6-440A-8BA5-6D38C010686E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -149,6 +155,7 @@ Global
 		{089F2122-485C-4437-BF24-B537F4B72FD1} = {E7701A0A-4E71-4D3A-B4BF-509C0FABB7E2}
 		{9A98023F-FE64-4364-A6CC-EB5E5FD80AE5} = {E7701A0A-4E71-4D3A-B4BF-509C0FABB7E2}
 		{36D5A135-49B7-4A49-AE0A-29157A49A401} = {E7701A0A-4E71-4D3A-B4BF-509C0FABB7E2}
+		{264571D9-A9A6-440A-8BA5-6D38C010686E} = {E7701A0A-4E71-4D3A-B4BF-509C0FABB7E2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8EECB227-5FD7-4E22-AC2C-372BC213BD29}
